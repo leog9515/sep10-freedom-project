@@ -1,7 +1,7 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: How I choose my project
+##### 10/19/26
 
-Text
+
 
 [Next](entry02.md)
 
