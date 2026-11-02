@@ -32,7 +32,8 @@ Topic: Casinos/Gambling
 ##### Hardware
 * Tech
   * Detail
-  * [image text](image URL)
+  * [fah](https://www.keyelco.com/blog-details.cfm/keyelco-blog/Gambling-Technology-and-their-Electronics/blog_id/193)
+  * [I don't know what is going on](https://www.enerconpower.com/docking-stations/intergrated-docking-stations) 
 
 ## Part B: possible future technology
 * Idea
