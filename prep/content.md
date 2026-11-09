@@ -31,9 +31,24 @@ Topic: Casinos/Gambling
 
 ##### Hardware
 * Tech
-  * Detail
-  * [fah](https://www.keyelco.com/blog-details.cfm/keyelco-blog/Gambling-Technology-and-their-Electronics/blog_id/193)
-  * [I don't know what is going on](https://www.enerconpower.com/docking-stations/intergrated-docking-stations) 
+  * Card and roulette tables as well as automated tables alike are paired with LED display boards to showing recently delt cards and winning hands to entice players to join
+  * Upgraded slot machines with either playable buttons or touch screen technology
+* Cameras and RFID chips are used as additional layers of security facial recognition and to identify potential scammers to important guests 
+  * RFID's let the security teams to know exact money amounts at every table in order to prevent chip theft as well as other things
+  * (RFID stands for radio-frequency identification and is used to transfer data wirelessly)
+  * Can also help security be one step ahead of the customer so they can have a good time
+* Casinos feature their own hotels can allow the keycard to said hotel room to do a lot of this such as linking room information with a player’s casino membership
+  * Linking the rooms information with a player’s casino membership lets the casino know the room you stayed in, the games you played, and the money you spent which can all be simultaneously collected
+  * [Link to source](https://www.keyelco.com/blog-details.cfm/keyelco-blog/Gambling-Technology-and-their-Electronics/blog_id/193)
+* Types of Slot Machines and Electronic Gaming Options
+* Progressive jackpot machines are machines that have a linked jackpot between multiple casinos or just one
+  * A percentage of each wager increases the jackpot pool until someone wins the jackpot which can reach extreme amounts of money but requires a maximum amount to try and get the entire thing
+*  Multi-Game Gambling Machines
+  *  lets you choose multiple types of games on a single screen
+  *  can include: reel-based games, card-style electronic games. and specialty bonus formats
+  *  allows flexability in your options
+  * [Link to source](https://www.riverwind.com/blog/casino-electronic-games-the-fast-guide-to-reels-screens-and-wins/)
+  * [electrical system](https://www.enerconpower.com/docking-stations/intergrated-docking-stations) 
 
 ## Part B: possible future technology
 * Idea
