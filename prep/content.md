@@ -2,12 +2,12 @@
 Topic: Casinos/Gambling
 
 ## Overview/Introduction/Context
-* Text
-* Text
+In this website I will be talking about 
+* Technological advancements that help you quite gambling
 
 ## Part A: existing technology
 
-##### Software
+##### Technology that helps you quite gambling
 
 * One app i looked at was [Quit Gambling: by Cashed Out](https://apps.apple.com/us/app/quit-gambling-by-cashed-out/id6759234389#information)
   * this app is an app to help people quit gambling
@@ -22,15 +22,8 @@ Topic: Casinos/Gambling
   * And a learning hub to learn lessons on addiction
 * [Gambling problem hotline](https://nyproblemgamblinghelp.org/new-york-city/)
   * 1-877-846-7369
-* What they use in top casinos apps
-  *  HD Graphics and Immersive Sound
-  *  Live Dealer Integration
-  *  Mobile-First Design and Compatibility
-  * [Link to source](https://www.kodedice.com/blog/top-online-casino-software-providers)
-  * https://pmc.ncbi.nlm.nih.gov/articles/PMC10919356/ 
 
-##### Hardware
-* Tech
+##### Technology that helps the casinos / entices you to gamble
   * Card and roulette tables as well as automated tables alike are paired with LED display boards to showing recently delt cards and winning hands to entice players to join
   * Upgraded slot machines with either playable buttons or touch screen technology
 * Cameras and RFID chips are used as additional layers of security facial recognition and to identify potential scammers to important guests 
@@ -48,7 +41,13 @@ Topic: Casinos/Gambling
   *  can include: reel-based games, card-style electronic games. and specialty bonus formats
   *  allows flexability in your options
   * [Link to source](https://www.riverwind.com/blog/casino-electronic-games-the-fast-guide-to-reels-screens-and-wins/)
-  * [electrical system](https://www.enerconpower.com/docking-stations/intergrated-docking-stations) 
+  * [electrical system](https://www.enerconpower.com/docking-stations/intergrated-docking-stations)
+* What they use in top casinos apps
+  *  HD Graphics and Immersive Sound
+  *  Live Dealer Integration
+  *  Mobile-First Design and Compatibility
+  * [Link to source](https://www.kodedice.com/blog/top-online-casino-software-providers)
+  * [Link to more source](https://pmc.ncbi.nlm.nih.gov/articles/PMC10919356/)
 
 ## Part B: possible future technology
 * Idea
