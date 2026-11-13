@@ -4,6 +4,8 @@ Topic: Casinos/Gambling
 ## Overview/Introduction/Context
 In this website I will be talking about 
 * Technological advancements that help you quite gambling
+* Technological advancements that help the casinos
+* Technological advancements that entices you to gamble 
 
 ## Part A: existing technology
 
