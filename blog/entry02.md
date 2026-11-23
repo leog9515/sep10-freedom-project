@@ -11,7 +11,15 @@ I am currently at the second stage of the Engineering Design Process (or EDP) wh
 
 ## Skills
 
-Some skills I have gather was the 
+Some skills I have gather was the skill to search on google well and the skill to read/analyze documents and articles
+
+I acquired the skill to google search well by change my search from "casino and gambling hardware", which yielded no good results for what I was looking for, to "what types of hardware technology does casinos use?" which actually allowed me to find more decisive answer to what I was looking for.
+
+I acquired the skill to read/analyze documents and articles by finding articles online and analyzing them for anything that might benefit me in my search for technology.
+
+## Conclusion 
+
+All in all I am looking forward to the next EDP set and what will come next 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
